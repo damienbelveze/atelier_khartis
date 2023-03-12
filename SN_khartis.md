@@ -10,7 +10,7 @@ comment: ce support a été présenté dans le cadre du Stretching Numérique (h
 
 # Utiliser Khartis pour cartographier des données
 
-[![course badge](https://raw.githubusercontent.com/LiaScript/LiaScript/master/badges/course.svg)](https://LiaScript.github.io/course/?https://raw.githubusercontent.com/damienbelveze/Liascript/main/H5P_Liascript.md#1)
+[![course badge](https://raw.githubusercontent.com/LiaScript/LiaScript/master/badges/course.svg)](https://liascript.github.io/course/?https://raw.githubusercontent.com/damienbelveze/atelier_khartis/main/SN_khartis.md#1)
 
 
 *15 mars 2023*
