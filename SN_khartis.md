@@ -19,6 +19,9 @@ CC:by Damien Belvèze
 
 ![](images/logo_SN.png)<!--width="30%"-->
 
+[Version téléchargeable de ce support](SN_Khartis.pdf)
+
+
 ## Introduction
 
 Khartis va vous permettre de créer des cartes thématiques. C'est un outil libre développé par l'atelier cartographie de Sciences Po.
