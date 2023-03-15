@@ -165,6 +165,15 @@ Notre fonds de carte importé de GADM est désormais prêt sur Khartis : il ne n
 
 Pour importer son propre fonds de carte, suivre la [procédure disponible](https://www.sciencespo.fr/cartographie/khartis/docs/importer-propre-fond/index.html) sur la documentation de Khartis
 
+## exercice : la population en Argentine
+
+[fichiers géographiques](gadm40_ARG_shp.zip)
+
+[fichier de données](population_argentine.xlsx)
+
+représenter par provinces l'importance de la population
+
+
 ## Exercice : cartographier des différences de revenus 
 
 Objectif : faire un diagramme présentant la proportion des hauts et bas revenus dans les communes de Rennes Métropole.
