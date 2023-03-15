@@ -91,7 +91,7 @@ Ces visualisations permettent de mieux distinguer les catégories d'une variable
 
 ## Exemple : espèces menacées et zones protégées
 
-Télécharger le fichier de données ([données](especes_menacees.xls))
+Télécharger le fichier de données ([données](especes_menacees.xlsx))
 
 Réaliser une carte de l'Europe avec les visualisations suivantes :
 
@@ -102,6 +102,10 @@ Réaliser une carte de l'Europe avec les visualisations suivantes :
 Votre travail final doit ressembler à cela: 
 
 ![](images/europe.png)
+
+Que se passe t-il quand on utilise à la place le [fichier de données suivant](especes_menacees2.xlsx) ?
+
+Cf. [Normalisation des noms de pays](https://en.wikipedia.org/wiki/List_of_ISO_3166_country_codes)
 
 ## Comment exporter des cartes de Khartis ? 
 
