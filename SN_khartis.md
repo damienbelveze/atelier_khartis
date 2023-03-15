@@ -180,11 +180,19 @@ Objectif : faire un diagramme présentant la proportion des hauts et bas revenus
 
 ### Trouver des fichiers Shapefile 
 
-Faire une recherche sur Google à la recherche de données 
+Faire une recherche sur Google pour trouver des formats en SHP 
 
 ```text
-filetype:shapefile Rennes Métropole
+shapefile Rennes Métropole
 ```  
+[[?]] dans ce cas le filtre **filetype:shp** ne donne pas de résultats
+
+Trouver des données sur les différences de revenus dans les communes de Rennes Métropole
+
+```
+(filetype:csv OR filetype:xls OR filetype:xlsx OR filetype:ods) AND "Rennes Métropole" revenus
+```
+
 ### Lier le fonds de carte avec les données
 
 C’est le code postal qui va permettre de lier les données au fonds de carte. Il faut que l’entête soit le même dans les deux cas.
