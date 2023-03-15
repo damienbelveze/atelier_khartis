@@ -185,7 +185,7 @@ Faire une recherche sur Google pour trouver des formats en SHP
 ```text
 shapefile Rennes Métropole
 ```  
-[[?]] dans ce cas le filtre **filetype:shp** ne donne pas de résultats
+Dans ce cas le filtre **filetype:shp** ne donne pas de résultats
 
 Trouver des données sur les différences de revenus dans les communes de Rennes Métropole
 
