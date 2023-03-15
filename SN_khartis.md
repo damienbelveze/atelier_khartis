@@ -169,7 +169,7 @@ Pour importer son propre fonds de carte, suivre la [procédure disponible](https
 
 [fichiers géographiques](gadm40_ARG_shp.zip)
 
-[fichier de données](population_argentine.xlsx)
+[fichier de données](population_argentine.csv)
 
 représenter par provinces l'importance de la population
 
