@@ -1,7 +1,7 @@
 <!--
 title: atelier Khartis Stretching Numérique
 
-email: damien.belveze@univ-rennes1.fr 
+email: damien.belveze@univ-rennes.fr 
 
 language: fr 
 
@@ -13,11 +13,11 @@ comment: ce support a été présenté dans le cadre du Stretching Numérique (h
 [![course badge](https://raw.githubusercontent.com/LiaScript/LiaScript/master/badges/course.svg)](https://liascript.github.io/course/?https://raw.githubusercontent.com/damienbelveze/atelier_khartis/main/SN_khartis.md#1)
 
 
-*15 mars 2023*
+*24 avril 2024*
 
-CC:by Damien Belvèze
+![](images/printemps_donnees.png)<!--width="400px"-->
 
-![](images/logo_SN.png)<!--width="30%"-->
+[![DOI](https://zenodo.org/badge/613031187.svg)](https://zenodo.org/doi/10.5281/zenodo.7725947)
 
 [Version téléchargeable de ce support](SN_Khartis.pdf)
 
