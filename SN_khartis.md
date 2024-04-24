@@ -126,11 +126,13 @@ On peut chercher des cartes en format Shapefile en utilisant Google. Le filtre t
 
 Il existe également sur le web des répertoires de cartes disponibles librement:
 
-Les fonds de carte des différents pays sont disponibles en *geojson* sur le [site Geojson Maps](https://geojson-maps.ash.ms/)
+s en *geojson* 
 
-Toutefois sur ce site, nous n'avons pas accès aux cartes administratives de chaque pays, seulemet aux cartes des pays eux-mêmes, sans subdivisions. Supposons que nous souhaitions visualiser la production hydroélectrique de la Chine province par province, nous ne pourrions pas le faire avec la carte de Chine importable de GeoJson Maps.
+Des fonds de carte, mais **sans subdivisions administratives** peuvent être récupérées en ShapeFile sur le [site World Administrative Boundaries](https://public.opendatasoft.com/explore/dataset/world-administrative-boundaries/export/?location=3,-24.35773,-7.68945&basemap=jawg.light) ainsi qu'en GeoJson sur le [site Geojson Maps](https://geojson-maps.ash.ms/)
 
-Il existe d'autres banques de fonds de carte utilisables librement sur le web. Nous allons utiliser ici le [site GADM](https://gadm.org/) qui met à disposition des fonds de carte de pays avec leurs subdivisions administratives.
+Toutefois sur ce site, nous n'avons pas accès aux cartes administratives de chaque pays, seulement aux cartes des pays eux-mêmes, sans subdivisions. Supposons que nous souhaitions visualiser la production hydroélectrique de la Chine province par province, nous ne pourrions pas le faire avec la carte de Chine importable de GeoJson Maps.
+
+Il existe d'autres banques de fonds de carte utilisables librement sur le web et qui permettent de récupérer les divisions administratives du pays, c'est le cas par exemple de [GeoBoundaries](https://www.geoboundaries.org/#features-wrapper). Nous allons utiliser ici un site équivalent, [GADM](https://gadm.org/), qui met à disposition des fonds de carte de pays avec leurs subdivisions administratives.
 
 Dans la liste des pays disponibles sur GADM, il nous faut d'abord chercher celui qui nous intéresse. Prenons comme exemple la Chine :
 
@@ -217,6 +219,15 @@ Les valeurs s’affichent sur le fond de carte.
 ---
 
 ![](images/revenus_rennes.png)<!--width="80%"-->
+
+## Références
+
+[1] WDPA, « Biodiversity: Protected areas", OECD Environment Statistics ». 21 avril 2023. doi: https://doi.org/10.1787/5fa661ce-en.
+[2] M. Bugnicourt, « Formation BULAC : Atelier Khartis », 13 décembre 2023. Consulté le: 24 avril 2024. [En ligne]. Disponible sur: https://zenodo.org/records/10371506
+[3] Vie Publique, « Les opérations militaires extérieures de la France (OPEX) | vie-publique.fr », Vie Publique : au coeur du débat public. Consulté le: 24 avril 2024. [En ligne]. Disponible sur: https://www.vie-publique.fr/eclairage/18474-les-operations-militaires-exterieures-de-la-france-opex
+[4] « Les soldats français morts en opération depuis 1969 – Kanaga ». Consulté le: 24 avril 2024. [En ligne]. Disponible sur: https://kanaga.ridel.org/2019/12/08/les-soldats-francais-morts-en-operation-depuis-1969/
+[5] OECD, « Threatened species ». Organisation for Economic Co-operation and Development, Paris, 2015. Consulté le: 24 avril 2024. [En ligne]. Disponible sur: http://instance.metastore.ingenta.com/content/collection/env-data-en
+
 
 
 
