@@ -223,9 +223,13 @@ Les valeurs s’affichent sur le fond de carte.
 ## Références
 
 [1] WDPA, « Biodiversity: Protected areas", OECD Environment Statistics ». 21 avril 2023. doi: https://doi.org/10.1787/5fa661ce-en.
+
 [2] M. Bugnicourt, « Formation BULAC : Atelier Khartis », 13 décembre 2023. Consulté le: 24 avril 2024. [En ligne]. Disponible sur: https://zenodo.org/records/10371506
+
 [3] Vie Publique, « Les opérations militaires extérieures de la France (OPEX) | vie-publique.fr », Vie Publique : au coeur du débat public. Consulté le: 24 avril 2024. [En ligne]. Disponible sur: https://www.vie-publique.fr/eclairage/18474-les-operations-militaires-exterieures-de-la-france-opex
+
 [4] « Les soldats français morts en opération depuis 1969 – Kanaga ». Consulté le: 24 avril 2024. [En ligne]. Disponible sur: https://kanaga.ridel.org/2019/12/08/les-soldats-francais-morts-en-operation-depuis-1969/
+
 [5] OECD, « Threatened species ». Organisation for Economic Co-operation and Development, Paris, 2015. Consulté le: 24 avril 2024. [En ligne]. Disponible sur: http://instance.metastore.ingenta.com/content/collection/env-data-en
 
 
